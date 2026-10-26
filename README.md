@@ -2,6 +2,18 @@
 
 Visualización 3D interactiva de una mosca de la fruta y una simulación simplificada basada en su conectoma. La interfaz y el motor se ejecutan en el navegador; el procesamiento neuronal usa un Web Worker.
 
+## Galería
+
+<table>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/01-ecosistema.png" alt="Ecosistema y actividad neuronal" width="360"><br><sub>Ecosistema y actividad neuronal</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/02-ciclo-nocturno.png" alt="Simulación nocturna" width="360"><br><sub>Simulación nocturna</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/03-camara-cercana.png" alt="Vista cercana de la mosca" width="360"><br><sub>Vista cercana de la mosca</sub></td>
+</tr>
+</table>
+
 ## Probar
 
 La demo del portafolio está publicada en https://lennon-linares-portfolio.pages.dev/demos/mosca/. El repositorio contiene el código fuente, pero no incluye los binarios derivados del conectoma.
